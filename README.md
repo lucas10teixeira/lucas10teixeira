@@ -7,9 +7,9 @@
 
 
 ## Sobre mim:
-- 🎓 Cursando o 3 ano do ensino médio com técnico profisionalizante de TI (SENAC RS).
+- 🎓 Técnico em Informática para Internet (SENAC RS).
 - 💻 Atualmente estagiando em uma empresa de software, trabalhando de QA (Quality Assurence).
-- 📚 Estudando Python, HTML, CSS, JavaScript, SQL, Node JS, Git e GitHub.
+- 📚 Cursando Ensino Superior em Engenharia de Software
 - ⚽ Apaixonado por esportes e tecnologia.
  
 
